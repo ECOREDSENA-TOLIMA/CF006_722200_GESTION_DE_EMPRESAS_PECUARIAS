@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p A continuación, se describen los temas principales del componente formativo: Medidas de bioseguridad en la producción pecuaria, en el cual se desarrollan aspectos importantes sobre un sistema de producción pecuaria, teniendo en cuenta todo lo referente a medidas de bioseguridad para instalaciones, personal, equipos y utensilios, previniendo plagas y vectores, como también aplicando las normas de seguridad y salud en el trabajo
 
     .row.justify-content-center
       .col-lg-10.mb-5
