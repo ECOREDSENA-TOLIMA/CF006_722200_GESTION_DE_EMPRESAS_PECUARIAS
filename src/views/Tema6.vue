@@ -269,17 +269,146 @@
                 td --
                 td 15-24 horas
 
+    p(data-aos="fade-left") Además de los anteriores, existen algunos otros ejemplos de agentes desinfectantes, con nombre comercial, los cuales se recomiendan para procesos de desinfección en todo tipo de predios.
+
+    p(data-aos="fade-left").mb-5 La efectividad de los agentes desinfectantes depende en gran medida de una correcta preparación, pues es necesario conocer las recomendaciones del fabricante en lo relacionado con las diluciones, tipos de mezclas y calidad del agua empleada. Generalmente, este tipo de sustancias son solubles en agua, lo cual facilita su empleo en cualquier unidad productiva. En términos generales, las recomendaciones que se deben tener en cuenta para realizar una buena preparación son las siguientes:
+
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 15
+      span #[em Recomendaciones para realizar una buena preparación]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col.desktop(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema6/8.svg', alt='Figura 15 En la figura se observa las recomendaciones como consultar a etiqueta del producto, cantidad de producto a emplear, limpieza y desinfección superficies, métodos de aplicación, dosis recomendada, disolver correctamente, prueba de compatibilidad.')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col.movil(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema6/8-m.svg', alt='Figura 15 En la figura se observa las recomendaciones como consultar a etiqueta del producto, cantidad de producto a emplear, limpieza y desinfección superficies, métodos de aplicación, dosis recomendada, disolver correctamente, prueba de compatibilidad.')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10
+        p(data-aos="fade-left").mb-5 Para determinar la cantidad de producto a preparar, es importante consultar su ficha técnica, pues allí se especifica qué cantidad de mezcla se utiliza para determinada superficie.
+      .col-10
+        .tarjeta.p-3(style="border-radius: 0; background-color:#FFFAD0")
+          p Por ejemplo, en la ficha del agente oxidante “Virkon”® S se especifica que 1 litro de la solución alcanza para, aproximadamente, 4 m² de superficie. Con este dato de vital importancia, es posible establecer, con una regla de tres, la cantidad de producto que se requiere para tratar determinada área. 
+
     separador
     #t_6_2.titulo-segundo.color-acento-contenido
       h2 6.2 Métodos, frecuencia y periodicidad
+
+    p(data-aos="fade-left").mb-5 Los métodos de aplicación de los productos para la higienización son variados y dependen principalmente del tipo de área o elemento a desinfectar, de las características del producto, de la disponibilidad de equipos y del tipo de limpieza, es decir, si es rutinaria o es profunda. Es así como los principales métodos de aplicación y sus características son los siguientes:
+
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 16
+      span #[em Métodos de aplicación de productos]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col.desktop(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema6/9.svg', alt='')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col.movil(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema6/9-m.svg', alt='')
+
+    p(data-aos="fade-left").mb-5 En los protocolos de limpieza y desinfección siempre se debe establecer la frecuencia con la que se realizarán cada una de las labores y dejar constancia de ello en los respectivos formatos, indicando la fecha en la que se realizó la actividad, el o los responsables, si hubo novedades en la implementación del protocolo y demás observaciones que se consideren pertinentes. 
+
+    .text-decor-2.text-white.text-center(data-aos="flip-up").mb-5
+      p.mt-3.p-2 Frecuencia 
+
+    p(data-aos="fade-left").mb-5 La frecuencia con la que se deben realizar las actividades de limpieza y desinfección están determinadas por la especie animal, el sistema productivo, el tipo de instalaciones, la densidad de animales y si existe algún tipo de alerta epidemiológica. A continuación, se presentan las principales labores de higienización que tienen lugar en la explotación pecuaria y la frecuencia con la que se recomienda realizarlas. 
+
+    .row.justify-content-center 
+      .col-10
+        <hr style="border:15px;">
+    .row.justify-content-center 
+      .col-sm-1
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/temas/tema6/10.svg', alt='Texto que describa la imagen')
+      .col-sm-9
+        p #[b  Desinfección de reservorios de agua:]  en lugares donde sea necesario establecer reservorios de agua se recomienda hacerlo por lo menos cada 20 días con el fin de mantener la calidad del líquido y evitar la proliferación de enfermedades. 
+      .col-10
+        <hr style="border:15px;">
+
+    .row.justify-content-center 
+      .col-sm-1
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/temas/tema6/11.svg', alt='Texto que describa la imagen')
+      .col-sm-9
+        p #[b  Lavado de tanques y tuberías:]  desinfección de galpones, equipos e instalaciones: se recomienda realizarlo cada vez que se cambie una parvada para evitar la propagación de enfermedades debido a los patógenos que pueden llegar a permanecer por largos periodos en el material de la cama. 
+        
+      .col-10
+        <hr style="border:15px;">
+      
+      .row.justify-content-center 
+      .col-sm-1
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/temas/tema6/12.svg', alt='Texto que describa la imagen')
+      .col-sm-9
+        p #[b  Limpieza de comederos:]  de acuerdo con la disponibilidad de tiempo y recursos, en explotaciones avícolas se recomienda hacer este procedimiento de manera semanal. En el caso de los porcinos, bovinos o caprinos esta es una labor que se realiza de forma diaria.
+      .col-10
+        <hr style="border:15px;">
+
+    .row.justify-content-center 
+      .col-sm-1
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/temas/tema6/13.svg', alt='Texto que describa la imagen')
+      .col-sm-9
+        p #[b  Limpieza de vehículos, calzado y trabajadores:]  la desinfección de vehículos y trabajadores se realiza de manera diaria debido al riesgo constante que existe de que por este medio ingresen a la unidad productiva agentes patógenos que pueden afectar seriamente la unidad productiva. Igualmente, el lavado de manos y la desinfección de utensilios de uso personal son procedimientos que deben realizarse incluso varias veces al día. 
+        
+      .col-10
+        <hr style="border:15px;">
+    
+    .row.justify-content-center 
+      .col-sm-1
+        figure(data-aos="flip-up")
+          img(src='@/assets/curso/temas/tema6/14.svg', alt='Texto que describa la imagen')
+      .col-sm-9
+        p #[b Desinfección de corrales y equipos de ordeño:] debido a que son equipos e instalaciones susceptibles a focos de contaminación y a que tienen relación con las materias primas, es recomendable establecer protocolos de limpieza y desinfección con una frecuencia diaria, una vez se culminen las labores. 
+      .col-10.mb-5
+        <hr style="border:15px;">
+    
+    p(data-aos="fade-left").mb-5 En los protocolos de limpieza y desinfección siempre se debe establecer la frecuencia con la que se realizarán cada una de las labores y dejar constancia de ello en los respectivos formatos, indicando la fecha en la que se realizó la actividad, el o los responsables, si hubo novedades en la implementación del protocolo y demás observaciones que se consideren pertinentes. 
 
     separador
     #t_6_3.titulo-segundo.color-acento-contenido
       h2 6.3 Fichas técnicas, responsables
 
+    p(data-aos="fade-left").mb-5 Algunos de los principios para el manejo eficaz de los planes de bioseguridad es la definición clara y concreta de los objetivos del plan y de las responsabilidades, tanto colectivas como individuales, del personal vinculado a la empresa pecuaria, lo cual es verificable a través del manejo adecuado de los registros y la sistematización de la información. 
+
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla 7
+      span #[em Ejemplo de registro de limpieza y desinfección]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema6/15.svg', alt='Tabla 7 Ejemplo de registro de limpieza y desinfección En la tabla se observa un ejemplo de la Finca La Fortuna, con los campos: Nombre de registro Limpieza y desinfección. Código del documento RE – BPA - 015 Documento preparado por: Roberto Junco Documento aprobado por: Emilio Núñez Fecha de aprobación 15-05-2021. Productos para limpieza y desinfección Los campos: fecha, responsable, nombre del producto, dosificación, lugar.') 
+
+    p(data-aos="fade-left") Cada vez que se realice alguna actividad de limpieza y desinfección, se deben dejar documentados todos los asuntos relacionados con esta labor, indicando claramente la fecha en que se realizó, el responsable (s), el nombre del producto utilizado, la dosis empleada, el lugar donde se realizó el procedimiento y las observaciones, si hubiese lugar a ellas. 
+    p(data-aos="fade-left").mb-5 Es importante que el personal vinculado a la empresa agropecuaria esté familiarizado con los registros, que cuente con la suficiente preparación para diligenciarlos y que tenga siempre la disposición de consignar en ellos información veraz que dé cuenta de las actividades realizadas. 
+
+
+
     separador
     #t_6_4.titulo-segundo.color-acento-contenido
       h2 6.4 Cronograma de actividades higienización
+
+    p(data-aos="fade-left").mb-5 Como todas las demás actividades que tienen lugar en la unidad productiva, es importante que se establezca un cronograma donde se especifique en qué momento tendrán lugar las labores relacionadas con la higienización de instalaciones y equipos, especificando, de ser posible, el lugar exacto en la que se llevará a cabo el proceso. 
+
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 17
+      span #[em Ejemplo de cronograma de actividades de higienización]
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema6/16.svg', alt='Figura 17 Ejemplo de cronograma de actividades de higienización En la figura se observa las actividades contra los meses del 1 al 6.')
+
+    p(data-aos="fade-left") El cronograma de actividades es una herramienta fundamental de planeación que permite al equipo de trabajo llevar un control muy preciso de las labores por realizar en la unidad productiva, al tiempo que facilita el proceso de seguimiento en campo. Es recomendable mantener el cronograma en un lugar visible de manera que todo el personal esté familiarizado con las labores pendientes y con las responsabilidades asignadas para el cumplimiento de las metas de la organización. 
 </template>
 
 <script>
