@@ -125,7 +125,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 9
-          span #[em eriodicidad de las actividades de manejo de plagas]
+          span #[em Periodicidad de las actividades de manejo de plagas]
         .tabla-b.mb-5 
           table
             thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 

@@ -26,6 +26,179 @@
       .tarjeta(style="background-color:#DBF9BD").p-4(titulo="Protección del agua ")
         p En todo proceso productivo es necesario establecer acciones enfocadas en la protección y cuidado de las fuentes hídricas, ya que los impactos que tienen las actividades humanas sobre el entorno son cada vez más evidentes. Igualmente, en todos los procesos que tengan lugar al interior de la unidad productiva, se deben definir protocolos para hacer un uso racional de este líquido y establecer mecanismos para reducir los niveles de contaminación de las aguas servidas que se generen en el desarrollo de las actividades pecuarias.
 
+    p(data-aos="fade-left").mb-5 Respecto a las características del agua para consumo humano según la Resolución 2115 de 2007 los parámetros recomendados son los siguientes:
+
+    .row.justify-content-center.mb-5
+      .col-8
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 10
+          span #[em Características del agua para consumo humano]
+        .tabla-b.mb-5 
+          table
+            caption Nota. Tomada del Ministerio de la Protección Social (2007).
+            thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
+              tr.text-center
+                th Características físicas
+                th Valor máximo aceptable
+            tbody.text-center
+              tr
+                td Color aparente
+                td 15
+              tr
+                td Olor y sabor
+                td Aceptable
+              tr
+                td Turbiedad 
+                td 2
+            thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
+              tr.text-center
+                th Características químicas
+                th Valor máximo aceptable
+            tbody.text-center
+              tr
+                td Cloro residual
+                td 0,3 – 2,0
+              tr
+                td pH
+                td 6,5 – 9,0
+              tr
+                td Carbono orgánico total 
+                td 5,0
+              tr
+                td Nitritos
+                td 0,1
+              tr
+                td Nitratos
+                td 10
+              tr
+                td Alcalinidad total
+                td 200
+              tr
+                td Cloruros
+                td 250
+              tr
+                td Aluminio 
+                td 0,2
+              tr
+                td Dureza total
+                td 300
+              tr
+                td Hierro total
+                td 0,3
+              tr
+                td Manganeso
+                td 0,1
+              tr
+                td Sulfatos
+                td 250
+              tr
+                td Mercurio
+                td 0,001
+              tr
+                td Cianuro libre y disociable
+                td 0,05
+            thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
+              tr.text-center
+                th Características químicas
+                th Valor máximo aceptable
+            tbody.text-center
+              tr
+                td Coliformes totales
+                td 0 UFC/100 cm³
+              tr
+                td Coliformes fecales
+                td 0 UFC/100 cm³
+              tr
+                td Escherichia coli
+                td 0
+              tr
+                td Mesófilos
+                td ≤ 100
+
+    p(data-aos="fade-left").mb-5 El Ideam (2010), determina que el consumo de agua de los principales sistemas pecuarios, en las fases de cría y levante, es el siguiente:
+
+    .row.justify-content-center.mb-5
+      .col-8
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 11
+          span #[em Consumo de agua promedio de las principales especies pecuarias]
+        .tabla-b.mb-5 
+          table
+            thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
+              tr.text-center
+                th Especie
+                th Litros
+                th Referencia
+            tbody.text-center
+              tr(style="background-color:#DBF9BD")
+                td Pollos y gallina
+                td 240
+                td(rowspan="4") Litros/ 100 animales
+              tr(style="background-color:#DBF9BD")
+                td Patos
+                td 370
+              tr(style="background-color:#DBF9BD")
+                td Pavos
+                td 650
+              tr(style="background-color:#DBF9BD")
+                td Codornices
+                td 58
+              tr(style="background-color:#F6F6F6")
+                td Cerdas madres
+                td 18
+                td(rowspan="9") Litros/ día/animal
+              tr(style="background-color:#F6F6F6")
+                td Cerdas reposición
+                td 18
+              tr(style="background-color:#F6F6F6")
+                td Cerdos ceba
+                td 8
+              tr(style="background-color:#F6F6F6")
+                td Cerdos levante
+                td 5
+              tr(style="background-color:#F6F6F6")
+                td Reproductores
+                td 16
+              tr(style="background-color:#F6F6F6")
+                td Bovinos 0-12 meses
+                td 20-30
+              tr(style="background-color:#F6F6F6")
+                td Bovinos 12-24 meses
+                td 45
+              tr(style="background-color:#F6F6F6")
+                td Bovinos 24-36 meses
+                td 80-110
+              tr(style="background-color:#F6F6F6")
+                td Mayores a 36 meses
+                td 80-115
+
+    p(data-aos="fade-left") Con base en los parámetros descritos anteriormente, es posible establecer la demanda de agua aproximada para el proyecto productivo que se desee implementar, con lo cual es posible analizar su viabilidad y las adecuaciones necesarias para asegurar la disponibilidad permanente de este importante recurso. 
+    p(data-aos="fade-left").mb-5 Para analizar la disponibilidad de agua se recomienda lo siguiente: 
+
+    .row.justify-content-center.mb-5 
+      .col
+        .tarjeta.p-4(style="border-radius: 0 ; background-color:#FFFAD0")
+          .row.justify-content-center
+            .col-3
+              img(src='@/assets/curso/temas/tema9/2.svg')
+            .col-9
+              ul.lista-ul
+                li 
+                  i.lista-ul__vineta
+                  | Revisar la distribución de las precipitaciones en la región los cuales se pueden consultar fácilmente en la página del Ideam u otras páginas especializadas en el tema. 
+                li 
+                  i.lista-ul__vineta
+                  | Visitar la unidad productiva en diferentes épocas del año para determinar una media de la disponibilidad de agua y de los caudales de fuentes superficiales. 
+                li 
+                  i.lista-ul__vineta
+                  | Inspeccionar la disponibilidad de fuentes de agua adicionales como reservorios, acueductos, pozos o aljibes. Referente a las instalaciones de almacenamiento de agua es importante tomar las medidas de capacidad y realizar un inventario de su estado, para identificar si hay lugar a reparaciones locativas.
+                li 
+                  i.lista-ul__vineta
+                  | Verificar pendientes, accidentes geográficos, distancias entre las instalaciones y las fuentes de agua y estado de tuberías de conducción para identificar si es necesario implementar sistemas de bombeo o si es posible utilizar la gravedad. 
+                li 
+                  i.lista-ul__vineta
+                  | En lo posible, tomar una muestra de agua para realizar un análisis completo de agua para identificar sus propiedades físico-químicas y microbiológicas. 
+
 </template>
 
 <script>
