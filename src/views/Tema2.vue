@@ -23,12 +23,6 @@
 
     .row.justify-content-center.mb-5
       .col-10
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 6
-          span #[em Programas sanitarios]
-
-    .row.justify-content-center.mb-5
-      .col-10
         .row.mb-5
           .col-md-3.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
@@ -133,7 +127,7 @@
     p(data-aos="fade-left").mb-5 Los aspectos centrales en los que se basan las buenas prácticas pecuarias son los siguientes:
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 8
+      h5 Figura 4
       span #[em Aspectos centrales de las buenas practicas pecuarias]
 
     .row.justify-content-center.align-items-center.mb-5
@@ -155,7 +149,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 9
+          h5 Figura 5
           span #[em Verificación de bioseguridad ]
 
         .row.justify-content-center.align-items-center.mb-5
@@ -172,6 +166,9 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 3
+          span #[em Recomendaciones generales de bioseguridad en granjas avícolas]
         .tabla-b.mb-5 
           table
             caption Nota. Con base en ICA (2014).

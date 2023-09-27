@@ -19,7 +19,9 @@
         .cajon.color-primario.p-4.mb-5
           p En cuanto a la normativa relacionada con la seguridad y salud en el trabajo se tiene que desde la década de los 50 se vienen dando avances importantes en lo relacionado con la reivindicación de los derechos de los trabajadores y la búsqueda de relaciones más justas entre estos y sus patronos. Con la incorporación del Código Sustantivo del Trabajo se logró aportar a la consolidación de las relaciones entre trabajadores y empleadores dentro de un ambiente de coordinación económica y equilibrio social. 
         p(data-aos="fade-left") A continuación, se presenta un recuento del marco normativo que acompaña los procesos de seguridad y salud en el trabajo. 
-
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla 12
+      span #[em Normativa seguridad y salud en el trabajo]
     .tabla-b.mb-5 
         table
           thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
@@ -66,7 +68,7 @@
     .row.justify-content-center.mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 12
+          h5 Tabla 13
           span #[em Características del agua para consumo humano]
         .tabla-b.mb-5 
           table
@@ -89,7 +91,7 @@
     .row.justify-content-center.mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 12
+          h5 Tabla 14
           span #[em Clasificación de los riesgos laborales de acuerdo con las aseguradoras de riesgos laborales]
         .tabla-b.mb-5 
           table
@@ -135,7 +137,7 @@
           img(src="@/assets/curso/temas/tema10/3.svg")
 
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 13
+          h5 Tabla 15
           span #[em Ejemplos de peligros que pueden enfrentar los trabajadores]
         .tabla-b.mb-5 
           table

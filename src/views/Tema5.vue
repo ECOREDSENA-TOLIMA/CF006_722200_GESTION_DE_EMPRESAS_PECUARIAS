@@ -169,7 +169,7 @@
         .col
           p Allí se presentan las precauciones básicas que se deben tener en cuenta, así como un listado de las etiquetas de advertencia que se encuentran en el equipo. Igualmente se definen los equipos de protección que se deben emplear durante la operación de la máquina.
           .titulo-sexto.color-acento-contenido
-            h5 Figura 13
+            h5 Figura 9
             span #[em Advertencia de seguridad manual de operación termo-nebulizador]
           figure
             img(src='@/assets/curso/temas/tema5/16.svg', alt='Figura 13 Advertencia de seguridad manual de operación termo-nebulizador En la figura se observa las advertencias de seguridad del SN101E puesta en servicio.')
@@ -179,8 +179,8 @@
         .col
           p Se presenta un diagrama en cual se describen las partes del equipo y su ubicación, lo cual es absolutamente necesario para proceder con la operación del aparato.
           .titulo-sexto.color-acento-contenido
-            h5 Figura 14
-            span #[em Esquema de componentes de un equipo termo-nebulizador]
+            h5 Figura 8
+            span #[em Advertencia de seguridad manual de operación termo-nebulizador]
           figure
             img(src='@/assets/curso/temas/tema5/17.svg', alt='Figura 14 Esquema de componentes de un equipo termo-nebulizador En la figura se observa los componentes de un equipo termo-nebulizador.')
             figcaption Nota. Tomada de Agriavi (2018).
@@ -188,6 +188,9 @@
       .row(titulo="Operación")
         .col
           p Esta sección generalmente incluye una explicación de los medidores, los interruptores y controles del equipo; funcionamiento de los accesorios y la información básica para el transporte del aparato.
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 9
+            span #[em Esquema de componentes de un equipo termo-nebulizador]
           figure
             img(src='@/assets/curso/temas/tema5/18.svg', alt='')
 

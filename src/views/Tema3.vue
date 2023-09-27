@@ -17,7 +17,7 @@
             p(data-aos="fade-left") Cada una de las explotaciones que tienen lugar en los entornos rurales y que utilizan animales para la generación de ingresos, o con fines de autoabastecimiento, reciben el nombre de sistemas productivos. No existe una cifra exacta sobre la cantidad de sistemas productivos agropecuarios que hay en el mundo, debido a que estos son tan diversos como las especies animales y vegetales que se utilizan para la alimentación y la industria. A grandes rasgos los siguientes son los dos sistemas de producción más comunes:
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 10
+      h5 Figura 6
       span #[em Características de los sistemas productivos]
 
     .row.justify-content-center.align-items-center.mb-5
@@ -36,7 +36,7 @@
         p(data-aos="fade-left").mb-5 La principal clasificación de los sistemas productivos agropecuarios se da con el tipo de explotación que se desarrolla, por lo que se tienen sistemas productivos intensivos, semi intensivos y extensivos. Estos se aplican para diversas especies pecuarias, desde las explotaciones de ganado bovino hasta los montajes con especies menores. Algunas de sus principales características son las siguientes:
 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 11
+          h5 Figura 7
           span #[em Características de los sistemas productivos]
 
         .row.justify-content-center.mb-3(style="background-color:#3B5620; border-radius:20px;margin-left:0px")

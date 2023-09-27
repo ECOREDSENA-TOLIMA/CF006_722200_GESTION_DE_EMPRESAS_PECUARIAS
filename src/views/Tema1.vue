@@ -30,7 +30,7 @@
                 td(colspan=2)  Bovino leche
                 td(colspan=2)  21,25 %
               tr
-                td(colspan=2)  Acuicultura huevo
+                td(colspan=2)  Avicultura huevo
                 td(colspan=2)  19,32 %
               tr
                 td(colspan=2)  Bovina carne
@@ -88,10 +88,6 @@
         .tarjeta.p-4(style="border-radius: 0; background-color:#DBF9BD").mb-3
           p Para efectos prácticos, los sistemas pecuarios se han agrupado en “familias” de especies, lo cual facilita su abordaje y comprensión. Estos grupos, a su vez, se subdividen en especies animales de importancia para la obtención de alimento o materias primas u otros servicios. Los principales grupos de especies pecuarias son los que se presentan a continuación:
         
-    .titulo-sexto.color-acento-contenido
-      h5 Figura 2
-      span #[em Principales especies pecuarias en explotaciones productivas]
-
     .row.justify-content-center.mb-5
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -99,8 +95,8 @@
             img(src='@/assets/curso/temas/tema1/4.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Bovinos: 
-              p vacas, toros, bueyes.
+              h4 Bovinos.
+              p Vacas, toros, bueyes.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -108,8 +104,8 @@
             img(src='@/assets/curso/temas/tema1/5.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Equinos:
-              p  caballos, mulas, asnos.
+              h4 Equinos.
+              p  Caballos, mulas, asnos.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -117,8 +113,8 @@
             img(src='@/assets/curso/temas/tema1/6.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Búfainos:
-              p  búfalos.
+              h4 Bufalinos.
+              p  Búfalos.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -126,8 +122,8 @@
             img(src='@/assets/curso/temas/tema1/7.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Ovinos:
-              p  ovejas, camuros, corderos.
+              h4 Ovinos.
+              p  Ovejas, camuros, corderos.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -135,8 +131,8 @@
             img(src='@/assets/curso/temas/tema1/8.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Caprinos:
-              p  cabras.
+              h4 Caprinos.
+              p  Cabras.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -144,8 +140,8 @@
             img(src='@/assets/curso/temas/tema1/9.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Aves:
-              p  gallinas, codornices, patos, pavos, avestruces, gansos.
+              h4 Aves.
+              p  Gallinas, codornices, patos, pavos, avestruces, gansos.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -153,8 +149,8 @@
             img(src='@/assets/curso/temas/tema1/10.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Peces:
-              p  truchas, mojarras, bagres, tilapias.
+              h4 Peces.
+              p  Truchas, mojarras, bagres, tilapias.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -162,8 +158,8 @@
             img(src='@/assets/curso/temas/tema1/11.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Porcinos:
-              p   cerdos.
+              h4 Porcinos.
+              p  Cerdos.
 
       .col-4
         .tarjeta-avatar-b.mb-5
@@ -171,13 +167,13 @@
             img(src='@/assets/curso/temas/tema1/12.svg' alt='AvatarTop')
           .tarjeta(style="background-color:#D7DDD2")
             .p-4
-              h4 Otras especies menores:
-              p  conejos, cuyes.
+              h4 Otras especies menores.
+              p  Conejos, cuyes.
     
-    p(data-aos="fade-left") Las especies animales más empleadas en la producción pecuaria poseen características que los diferencian entre sí y que definen el tipo de explotación en el que se pueden emplear.
+    p(data-aos="fade-left") Las especies animales más empleadas en la producción pecuaria poseen características que los diferencian entre sí, y que definen el tipo de explotación en el que se pueden emplear.
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 3
+      h5 Figura 2
       span #[em Características de las especies animales]
 
     .row.justify-content-center.align-items-center.mb-5
@@ -220,7 +216,7 @@
             tbody.text-center
               tr
                 td(colspan=2)  Movilización
-                td(colspan=2)  Transporte de los animales dentro o fuera del predio, bien sea desplazándose por sí mismos o utilizando cualquier otro medio. 
+                td(colspan=2)  Transporte de los animales dentro o fuera del predio, bien sea desplazándose por sí mismos o utilizando cualquier otro medio.
               tr
                 td(colspan=2)  Sujeción
                 td(colspan=2)  Inmovilización del animal para la realización de algún procedimiento. 
@@ -285,7 +281,7 @@
         p El bienestar animal se basa en tres principios, los cuales se presentan a continuación:
         
     .titulo-sexto.color-acento-contenido
-      h5 Figura 4
+      h5 Figura 3
       span #[em Bienestar animal ]
 
     .row.justify-content-center.align-items-center.mb-5
@@ -305,9 +301,6 @@
 
     .row.justify-content-center.mb-5
       .col-8
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 5
-          span #[em Principales elementos del bienestar animal ]
         .tarjeta.p-4(style="border-radius: 0 ; background-color:#D7DDD2")
           .row.justify-content-center
             .col-2

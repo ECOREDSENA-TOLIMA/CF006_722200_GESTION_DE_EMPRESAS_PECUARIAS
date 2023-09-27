@@ -274,18 +274,18 @@
     p(data-aos="fade-left").mb-5 La efectividad de los agentes desinfectantes depende en gran medida de una correcta preparación, pues es necesario conocer las recomendaciones del fabricante en lo relacionado con las diluciones, tipos de mezclas y calidad del agua empleada. Generalmente, este tipo de sustancias son solubles en agua, lo cual facilita su empleo en cualquier unidad productiva. En términos generales, las recomendaciones que se deben tener en cuenta para realizar una buena preparación son las siguientes:
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 15
+      h5 Figura 11
       span #[em Recomendaciones para realizar una buena preparación]
 
     .row.justify-content-center.align-items-center.mb-5
       .col.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema6/8.svg', alt='Figura 15 En la figura se observa las recomendaciones como consultar a etiqueta del producto, cantidad de producto a emplear, limpieza y desinfección superficies, métodos de aplicación, dosis recomendada, disolver correctamente, prueba de compatibilidad.')
+          img(src='@/assets/curso/temas/tema6/8.svg', alt='Figura 11 En la figura se observa las recomendaciones como consultar a etiqueta del producto, cantidad de producto a emplear, limpieza y desinfección superficies, métodos de aplicación, dosis recomendada, disolver correctamente, prueba de compatibilidad.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema6/8-m.svg', alt='Figura 15 En la figura se observa las recomendaciones como consultar a etiqueta del producto, cantidad de producto a emplear, limpieza y desinfección superficies, métodos de aplicación, dosis recomendada, disolver correctamente, prueba de compatibilidad.')
+          img(src='@/assets/curso/temas/tema6/8-m.svg', alt='Figura 11 En la figura se observa las recomendaciones como consultar a etiqueta del producto, cantidad de producto a emplear, limpieza y desinfección superficies, métodos de aplicación, dosis recomendada, disolver correctamente, prueba de compatibilidad.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10
@@ -301,7 +301,7 @@
     p(data-aos="fade-left").mb-5 Los métodos de aplicación de los productos para la higienización son variados y dependen principalmente del tipo de área o elemento a desinfectar, de las características del producto, de la disponibilidad de equipos y del tipo de limpieza, es decir, si es rutinaria o es profunda. Es así como los principales métodos de aplicación y sus características son los siguientes:
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 16
+      h5 Figura 12
       span #[em Métodos de aplicación de productos]
 
     .row.justify-content-center.align-items-center.mb-5
@@ -400,13 +400,13 @@
     p(data-aos="fade-left").mb-5 Como todas las demás actividades que tienen lugar en la unidad productiva, es importante que se establezca un cronograma donde se especifique en qué momento tendrán lugar las labores relacionadas con la higienización de instalaciones y equipos, especificando, de ser posible, el lugar exacto en la que se llevará a cabo el proceso. 
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 17
+      h5 Figura 13
       span #[em Ejemplo de cronograma de actividades de higienización]
 
     .row.justify-content-center.align-items-center.mb-5
       .col(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema6/16.svg', alt='Figura 17 Ejemplo de cronograma de actividades de higienización En la figura se observa las actividades contra los meses del 1 al 6.')
+          img(src='@/assets/curso/temas/tema6/16.svg', alt='Figura 13 Ejemplo de cronograma de actividades de higienización En la figura se observa las actividades contra los meses del 1 al 6.')
 
     p(data-aos="fade-left") El cronograma de actividades es una herramienta fundamental de planeación que permite al equipo de trabajo llevar un control muy preciso de las labores por realizar en la unidad productiva, al tiempo que facilita el proceso de seguimiento en campo. Es recomendable mantener el cronograma en un lugar visible de manera que todo el personal esté familiarizado con las labores pendientes y con las responsabilidades asignadas para el cumplimiento de las metas de la organización. 
 </template>

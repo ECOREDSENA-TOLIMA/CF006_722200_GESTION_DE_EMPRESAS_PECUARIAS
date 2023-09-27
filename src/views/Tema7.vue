@@ -56,7 +56,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 18
+          h5 Figura 14
           span #[em Medidas de prevención para manejo de plagas]
 
     .row.justify-content-center.align-items-center.mb-5

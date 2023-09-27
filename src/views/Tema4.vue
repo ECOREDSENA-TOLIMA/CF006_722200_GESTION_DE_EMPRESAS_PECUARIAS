@@ -135,7 +135,7 @@
     p(data-aos="fade-left").mb-5 Los protocolos más comunes usados en los sistemas pecuarios son los siguientes:
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 12
+      h5 Figura 8
       span #[em Tipos de protocolo pecuarios]
 
     .row.justify-content-center.align-items-center.mb-5

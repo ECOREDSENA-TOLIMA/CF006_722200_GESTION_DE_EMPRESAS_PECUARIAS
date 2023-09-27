@@ -8,12 +8,11 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-5(data-aos="fade-left") Las empresas pecuarias son una necesidad en todos los países y por eso se trabajará en este contenido la normativa y procedimiento básico, para quienes tienen o quieren tener una empresa de este orden:
+    p.mb-5(data-aos="fade-left") La sanidad es una de las áreas más importantes del manejo zootécnico, pues una buena salud de los animales tiene un efecto directo en su productividad y bienestar, en la salud del personal que labora en las explotaciones, en la calidad e inocuidad del producto final y, por ende, en la salud de los consumidores como se evidencia a continuación:
 
     figure
     .video(data-aos="fade-right")
       iframe(width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      p ESPACIO PARA VIDEO
 </template>
 
 <script>
