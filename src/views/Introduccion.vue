@@ -12,7 +12,7 @@
 
     figure
     .video(data-aos="fade-right")
-      iframe(width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/XAmlwE6WoJc?si=AbukLTod2JWhZrj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
 </template>
 
 <script>
