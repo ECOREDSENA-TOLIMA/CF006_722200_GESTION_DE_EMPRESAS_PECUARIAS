@@ -62,12 +62,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema7/5.svg', alt='')
+          img(src='@/assets/curso/temas/tema7/5.svg', alt='Figura 14 Medidas de prevención para manejo de plagas En la figura se observa como medidas manejo de excretas, manejo de mortalidades, aguas residuales, trampas, manejo de residuos, bodegas, podas, aseo.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema7/5-m.svg', alt='')
+          img(src='@/assets/curso/temas/tema7/5-m.svg', alt='Figura 14 Medidas de prevención para manejo de plagas En la figura se observa como medidas manejo de excretas, manejo de mortalidades, aguas residuales, trampas, manejo de residuos, bodegas, podas, aseo.')
     separador
     #t_7_2.titulo-segundo.color-acento-contenido
       h2 7.2  Métodos de control

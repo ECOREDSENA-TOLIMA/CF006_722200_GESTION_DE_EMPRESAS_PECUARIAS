@@ -64,14 +64,14 @@
           span #[em Porcentaje de participación sobre la producción total]
 
         figure(data-aos="flip-up")
-          img(src='@/assets/curso/temas/tema1/1.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/1.svg', alt='Figura 1 Porcentaje de participación sobre la producción total En la figura se observa avicultura carne con 32 %, bovino leche con 22 %, avicultura huevo con 18 %, bovina carne con 14 %, porcicultura carne con 8 %, picicultura con 4 %, bufalina carne con 0,5 %, sin porcentaje acuicultura camarón, miel de abejas, ovina carne, caprina carne.')
 
     .row.justify-content-center.mt-5.mb-5 
       .col-10
         .row.justify-content-center
           .col.lg-3
             figure(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema1/2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/2.svg', alt='Figura 1 Porcentaje de participación sobre la producción total En la figura se observa avicultura carne con 32 %, bovino leche con 22 %, avicultura huevo con 18 %, bovina carne con 14 %, porcicultura carne con 8 %, picicultura con 4 %, bufalina carne con 0,5 %, sin porcentaje acuicultura camarón, miel de abejas, ovina carne, caprina carne.')
           .col-9
             p(data-aos="fade-left") Además de las anteriores especies, también existen otros sistemas productivos que se desarrollan a menor escala, pero no por ello dejan de ser de importancia en la generación de alimentos y materias primas. Entre ellos están la producción de conejos, cuyes, codornices, algunos tipos de reptiles, el lombricultivo, pavos, patos, gansos, avestruces y chigüiros entre otras. También existen explotaciones dedicadas a la cría de animales para diversos usos, entre los cuales destacan los équidos (caballos, mulas, asnos), alpacas y llamas.
 
@@ -306,19 +306,19 @@
             .col-2
               img(src='@/assets/curso/temas/tema1/19.svg')
             .col-10
-              p El alojamiento les debe protejer de los elementos, ofrecer buena ventilación y temperatura adecuada. Buena iluminación y ser de fácil limpieza y desinfección. Igualmente se deben manejar las densidades apropiadas para cada especie. 
+              p El alojamiento les debe proteger de los elementos, ofrecer buena ventilación y temperatura adecuada. Buena iluminación y ser de fácil limpieza y desinfección. Igualmente se deben manejar las densidades apropiadas para cada especie. 
         .tarjeta.p-4(style="border-radius: 0 ; background-color:#FFFAD0")
           .row.justify-content-center
             .col-2
               img(src='@/assets/curso/temas/tema1/20.svg')
             .col-10
-              p Las instalaciones deben satisfacer las necesidades de confort y socialización. Los materiales y el tipo de construcción deben garantizar la integridad física de los animales. 
+              p Las instalaciones deben satisfacer las necesidades de #[em confort] y socialización. Los materiales y el tipo de construcción deben garantizar la integridad física de los animales. 
         .tarjeta.p-4(style="border-radius: 0 ; background-color:#D7DDD2")
           .row.justify-content-center
             .col-2
               img(src='@/assets/curso/temas/tema1/21.svg')
             .col-10
-              p Se debe garantizar el acceso al agua y a los alimentos en cantidades suficientes y en condiciones higiénicas. Los alimentos comerciales deben tener registro ICA. La cantidad de comederos y bebederos debe ser sufiente para el número de animales alojados. 
+              p Se debe garantizar el acceso al agua y a los alimentos en cantidades suficientes y en condiciones higiénicas. Los alimentos comerciales deben tener registro ICA. La cantidad de comederos y bebederos debe ser suficiente para el número de animales alojados. 
         .tarjeta.p-4(style="border-radius: 0 ; background-color:#FFFAD0")
           .row.justify-content-center
             .col-2

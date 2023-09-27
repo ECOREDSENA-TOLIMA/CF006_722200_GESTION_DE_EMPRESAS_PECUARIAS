@@ -307,12 +307,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema6/9.svg', alt='')
+          img(src='@/assets/curso/temas/tema6/9.svg', alt='Figura 12 Métodos de aplicación de productos En la figura se observan los métodos de aspersión, inmersión, espolvoreo, nebulización, termo nebulización.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema6/9-m.svg', alt='')
+          img(src='@/assets/curso/temas/tema6/9-m.svg', alt='Figura 12 Métodos de aplicación de productos En la figura se observan los métodos de aspersión, inmersión, espolvoreo, nebulización, termo nebulización.')
 
     p(data-aos="fade-left").mb-5 En los protocolos de limpieza y desinfección siempre se debe establecer la frecuencia con la que se realizarán cada una de las labores y dejar constancia de ello en los respectivos formatos, indicando la fecha en la que se realizó la actividad, el o los responsables, si hubo novedades en la implementación del protocolo y demás observaciones que se consideren pertinentes. 
 
