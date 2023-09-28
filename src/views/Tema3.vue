@@ -23,21 +23,17 @@
     .row.justify-content-center.align-items-center.mb-5
       .col.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema3/2.svg', alt='Figura 10 Características sistemas productivos En la figura se observa sistemas productivos agrícolas; sistemas productivos pecuarios.') 
+          img(src='@/assets/curso/temas/tema3/2.svg', alt='Figura 6 Características sistemas productivos En la figura se observa sistemas productivos agrícolas; sistemas productivos pecuarios.') 
 
     .row.justify-content-center.align-items-center.mb-5
       .col.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema3/2-m.svg', alt='Figura 10 Características sistemas productivos En la figura se observa sistemas productivos agrícolas; sistemas productivos pecuarios.') 
+          img(src='@/assets/curso/temas/tema3/2-m.svg', alt='Figura 6 Características sistemas productivos En la figura se observa sistemas productivos agrícolas; sistemas productivos pecuarios.') 
 
     .row.justify-content-center.mt-5.mb-5 
       .col-10 
         p(data-aos="fade-left") Los sistemas de producción agrícolas son aquellos en los cuales se utilizan especies vegetales para la producción de alimentos y materias primas, tales como el café, palma de aceite, el arroz, yuca o caña de azúcar, entre otros. Por su parte los sistemas de producción pecuaria son aquellos en los que la especie central es una especie animal, como el caso del ganado bovino, ganado ovino, caprino, peces o aves. Incluso existen algunos sistemas productivos donde en un mismo espacio se pueden cultivar especies animales y vegetales, como es el caso de los sistemas silvopastoriles.
         p(data-aos="fade-left").mb-5 La principal clasificación de los sistemas productivos agropecuarios se da con el tipo de explotación que se desarrolla, por lo que se tienen sistemas productivos intensivos, semi intensivos y extensivos. Estos se aplican para diversas especies pecuarias, desde las explotaciones de ganado bovino hasta los montajes con especies menores. Algunas de sus principales características son las siguientes:
-
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 7
-          span #[em Características de los sistemas productivos]
 
         .row.justify-content-center.mb-3(style="background-color:#3B5620; border-radius:20px;margin-left:0px")
           .col-3

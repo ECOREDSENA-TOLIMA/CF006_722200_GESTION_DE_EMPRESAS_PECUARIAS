@@ -135,18 +135,18 @@
     p(data-aos="fade-left").mb-5 Los protocolos más comunes usados en los sistemas pecuarios son los siguientes:
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 8
+      h5 Figura 7
       span #[em Tipos de protocolo pecuarios]
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema4/9.svg', alt='')
+          img(src='@/assets/curso/temas/tema4/9.svg', alt='Figura 7 Tipos de protocolo pecuarios En la figura se representan los protocolos como mantenimiento de instalaciones y equipos, programas de capacitación, manejo y eliminación de residuos sólidos y líquidos, programa sanitario, ingreso de personas, objetos y vehículos, sistemas de tratamiento de agua, limpieza y desinfección de instalaciones, equipos y utensilios, control integrado de platas.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema4/9-m.svg', alt='')
+          img(src='@/assets/curso/temas/tema4/9-m.svg', alt='Figura 7 Tipos de protocolo pecuarios En la figura se representan los protocolos como mantenimiento de instalaciones y equipos, programas de capacitación, manejo y eliminación de residuos sólidos y líquidos, programa sanitario, ingreso de personas, objetos y vehículos, sistemas de tratamiento de agua, limpieza y desinfección de instalaciones, equipos y utensilios, control integrado de platas.')
 
     p(data-aos="fade-left").mb-5 Para la construcción de un protocolo, sin importar su área de acción, se deben tener en cuenta los siguientes elementos:
 

@@ -174,17 +174,17 @@
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 2
-      span #[em Características de las especies animales]
+      span #[em Características de las especies pecuarias]
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-md-8.col-lg-8.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema1/13.svg', alt='Figura 3 Características de especies pecuarias en la figura se observa las principales características de bovinos, equinos, bufalinos, ovinos, caprinos, aves, peces, porcinos, otras especies menores.')
+          img(src='@/assets/curso/temas/tema1/13.svg', alt='Figura 2 Características de especies pecuarias en la figura se observa las principales características de bovinos, equinos, bufalinos, ovinos, caprinos, aves, peces, porcinos, otras especies menores.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-md-8.col-lg-8.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema1/13-m.svg', alt='Figura 3 Características de especies pecuarias en la figura se observa las principales características de bovinos, equinos, bufalinos, ovinos, caprinos, aves, peces, porcinos, otras especies menores.')
+          img(src='@/assets/curso/temas/tema1/13-m.svg', alt='Figura 2 Características de especies pecuarias en la figura se observa las principales características de bovinos, equinos, bufalinos, ovinos, caprinos, aves, peces, porcinos, otras especies menores.')
 
 
 
@@ -287,12 +287,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema1/18.svg', alt='Figura 4 Bienestar animal En la figura se observa como bienestar animal libre de hambre, sed o desnutrición; libre de impedimentos para manifestar su comportamiento natural, y libre de temor o angustia.')
+          img(src='@/assets/curso/temas/tema1/18.svg', alt='Figura 3 Bienestar animal En la figura se observa como bienestar animal libre de hambre, sed o desnutrición; libre de impedimentos para manifestar su comportamiento natural, y libre de temor o angustia.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema1/18-m.svg', alt='Figura 4 Bienestar animal En la figura se observa como bienestar animal libre de hambre, sed o desnutrición; libre de impedimentos para manifestar su comportamiento natural, y libre de temor o angustia.')
+          img(src='@/assets/curso/temas/tema1/18-m.svg', alt='Figura 3 Bienestar animal En la figura se observa como bienestar animal libre de hambre, sed o desnutrición; libre de impedimentos para manifestar su comportamiento natural, y libre de temor o angustia.')
 
     p(data-aos="fade-left") Las Resoluciones 136 y 253 de 2020, del Ministerio de Agricultura y Desarrollo Rural, abordan el tema del bienestar animal y definen los aspectos que se deben tener en cuenta para garantizar esta condición en las principales explotaciones pecuarias, elementos que son transferibles a todos los procesos productivos que involucren el trabajo con animales.
     p(data-aos="fade-left").mb-5 Dentro de los elementos que se deben tener en cuenta para garantizar el bienestar animal se encuentran los siguientes:

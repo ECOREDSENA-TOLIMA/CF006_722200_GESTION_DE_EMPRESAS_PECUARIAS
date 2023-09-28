@@ -133,12 +133,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema2/9.svg', alt='Figura 8  Aspectos centrales de las buenas prácticas pecuarias En la figura se observa buen estado y mantenimiento de instalaciones; correcta alimentación y protección del medio ambiente; sanidad animal y bioseguridad; uso correcto de medicamentos con registro ICA; saneamiento básico, calidad del agua; cuidados en el transporte de los animales; registro y documentación de actividades; manejo integrado de plagas; almacenamiento correcto de insumos; trazabilidad de todos los procesos; bienestar de los trabajadores y seguridad en el trabajo.') 
+          img(src='@/assets/curso/temas/tema2/9.svg', alt='Figura 4  Aspectos centrales de las buenas prácticas pecuarias En la figura se observa buen estado y mantenimiento de instalaciones; correcta alimentación y protección del medio ambiente; sanidad animal y bioseguridad; uso correcto de medicamentos con registro ICA; saneamiento básico, calidad del agua; cuidados en el transporte de los animales; registro y documentación de actividades; manejo integrado de plagas; almacenamiento correcto de insumos; trazabilidad de todos los procesos; bienestar de los trabajadores y seguridad en el trabajo.') 
 
     .row.justify-content-center.align-items-center.mb-5
       .col.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema2/9-m.svg', alt='Figura 8  Aspectos centrales de las buenas prácticas pecuarias En la figura se observa buen estado y mantenimiento de instalaciones; correcta alimentación y protección del medio ambiente; sanidad animal y bioseguridad; uso correcto de medicamentos con registro ICA; saneamiento básico, calidad del agua; cuidados en el transporte de los animales; registro y documentación de actividades; manejo integrado de plagas; almacenamiento correcto de insumos; trazabilidad de todos los procesos; bienestar de los trabajadores y seguridad en el trabajo.') 
+          img(src='@/assets/curso/temas/tema2/9-m.svg', alt='Figura 4  Aspectos centrales de las buenas prácticas pecuarias En la figura se observa buen estado y mantenimiento de instalaciones; correcta alimentación y protección del medio ambiente; sanidad animal y bioseguridad; uso correcto de medicamentos con registro ICA; saneamiento básico, calidad del agua; cuidados en el transporte de los animales; registro y documentación de actividades; manejo integrado de plagas; almacenamiento correcto de insumos; trazabilidad de todos los procesos; bienestar de los trabajadores y seguridad en el trabajo.') 
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido
@@ -155,12 +155,12 @@
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema2/10.svg', alt='Figura 9 Verificación de bioseguridad Bioseguridad Externa Cerco perimetral. Cuarentena. Vehículos. Filtro sanitario. Manejo de residuos. Control de plagas. Oficinas. Bodegas. Área social.') 
+              img(src='@/assets/curso/temas/tema2/10.svg', alt='Figura 5 Verificación de bioseguridad Bioseguridad Externa Cerco perimetral. Cuarentena. Vehículos. Filtro sanitario. Manejo de residuos. Control de plagas. Oficinas. Bodegas. Área social.') 
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema2/10-m.svg', alt='Figura 9 Verificación de bioseguridad Bioseguridad Externa Cerco perimetral. Cuarentena. Vehículos. Filtro sanitario. Manejo de residuos. Control de plagas. Oficinas. Bodegas. Área social.') 
+              img(src='@/assets/curso/temas/tema2/10-m.svg', alt='Figura 5 Verificación de bioseguridad Bioseguridad Externa Cerco perimetral. Cuarentena. Vehículos. Filtro sanitario. Manejo de residuos. Control de plagas. Oficinas. Bodegas. Área social.') 
 
     p(data-aos="fade-left").mb-5 Las prácticas para garantizar la bioseguridad en las explotaciones pecuarias difieren entre sistemas productivos, pero poseen elementos comunes como las distancias mínimas entre las diferentes áreas e instalaciones, la presencia de un cerco perimetral, poseer protocolos de limpieza y desinfección de instalaciones, la señalización de áreas de proceso, las áreas para el manejo de los residuos y los espacios para el almacenar insumos, herramientas y equipos. De acuerdo con la Resolución del ICA 3652 de 2014, los requisitos de bioseguridad e infraestructura avícola se basan en los siguientes aspectos:
 
