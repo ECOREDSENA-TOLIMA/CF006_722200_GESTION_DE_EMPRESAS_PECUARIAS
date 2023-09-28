@@ -41,19 +41,19 @@
 
         .row.justify-content-center.mb-3(style="background-color:#3B5620; border-radius:20px;margin-left:0px")
           .col-3
-           img(src='@/assets/curso/temas/tema3/3.svg').p-0
+           img(src='@/assets/curso/temas/tema3/3.png').p-0
           .col-9.p-3.text-white 
             h4 Sistemas extensivos
             p Cría de animales en grandes extensiones de tierra. Son sistemas con baja demanda de mano de obra, equipos e insumos. Se caracterizan por sus bajos costos de producción. Los tiempos para el sacrificio de los animales son mucho mayores que con los otros sistemas. Generalmente poseen una baja rentabilidad. En especies menores se denominan también sistemas de traspatio. 
         .row.justify-content-center.mb-3(style="background-color:#3B5620; border-radius:20px;margin-left:0px")
           .col-3
-           img(src='@/assets/curso/temas/tema3/4.svg').p-0
+           img(src='@/assets/curso/temas/tema3/4.png').p-0
           .col-9.p-3.text-white 
             h4 Sistemas semintensivos
             p Es uno de los más empleados en el mundo entero. Los animales son criados y alimentados en campo pero además reciben un refuerzo alimenticio o una suplementación. Utilizan una mayor cantidad de mano de obra y recursos que los sistemas extensivos. Por lo general se hace necesario el uso de instalaciones para el resguardo y manejo de los animales.
         .row.justify-content-center.mb-5(style="background-color:#3B5620; border-radius:20px;margin-left:0px")
           .col-3
-           img(src='@/assets/curso/temas/tema3/5.svg').p-0
+           img(src='@/assets/curso/temas/tema3/5.png').p-0
           .col-9.p-3.text-white 
             h4 Sistemas intensivos
             p Son sistemas altamente dependientes de la tecnología y tienen una demanda considerable de recursos y mano de obra. Generalmente requieren de grandes inversiones para su instalación. Los niveles de rentabilidad en este tipo de explotaciones a menudo son  mayores. Se emplean las mayores densidades de animales por metro cuadrado posible, siempre respetando el bienestar animal. 

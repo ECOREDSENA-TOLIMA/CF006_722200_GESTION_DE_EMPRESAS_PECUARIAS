@@ -9,7 +9,7 @@
 
     .row.mb-5.align-content-center
       .col-md-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema10/1.svg' alt='')  
+        img(src='@/assets/curso/temas/tema10/1.png' alt='')  
       .col-md-8(data-aos="fade-right")
         p La implementación de los proyectos productivos pecuarios es una de las actividades que se ha convertido en alternativa de empleo digno para miles de familias en el territorio nacional, ya que es una industria creciente en un país que cada vez demanda más alimentos y materias primas. 
         p Como muchas otras industrias en Colombia, la empresa pecuaria ha evolucionado en los últimos años y se ha transformado conforme a las exigencias normativas que rigen los temas de empleo, seguridad y formalización laboral. Igualmente, la adopción por parte de muchos empresarios del agro de los lineamientos y principios de las Buenas Prácticas Pecuarias (BPP) y Buenas Prácticas Agrícolas (BPA) ha llevado a que se incorporen en la actividad productiva estos elementos, con lo cual el sector agropecuario ha dado un paso importante hacia la tecnificación de los procesos y el desarrollo de la actividad productiva conforme a los estándares internacionales. 
