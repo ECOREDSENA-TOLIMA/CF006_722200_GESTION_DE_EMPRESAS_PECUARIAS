@@ -141,7 +141,7 @@
                 td Permanente.
               tr
                 td Control químico
-                td Aplicaciones cada 15 días en horas de poca actividad biológica. Temprano en la mañana o al final de la tarde. controladores cada 15 días inicialmente. Luego la frecuencia se puede ampliar hasta los dos o tres meses. 
+                td Aplicaciones cada 15 días en horas de poca actividad biológica. Temprano en la mañana o al final de la tarde. 
               tr
                 td Control físico y cultural
                 td Permanente.

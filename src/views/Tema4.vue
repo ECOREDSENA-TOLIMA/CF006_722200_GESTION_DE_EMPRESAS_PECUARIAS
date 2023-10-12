@@ -21,14 +21,14 @@
           figure
             img(src='@/assets/curso/temas/tema4/2.svg', alt='')
         .col-10
-          p hace referencia a los medicamentos veterinarios los cuales son sustancias que pueden ser aplicadas o administradas a los animales, con fines terapéuticos, profilácticos, inmunológicos, de diagnóstico o para modificar las funciones fisiológicas y de comportamiento (Oirsa, 2013). Hacen parte de este grupo los antiparasitarios, antibióticos, relajantes musculares, anestésicos y vacunas entre otros.
+          p Hace referencia a los medicamentos veterinarios, los cuales son sustancias que pueden ser aplicadas o administradas a los animales, con fines terapéuticos, profilácticos, inmunológicos, de diagnóstico o para modificar las funciones fisiológicas y de comportamiento (Oirsa, 2013). Hacen parte de este grupo los antiparasitarios, antibióticos, relajantes musculares, anestésicos y vacunas entre otros.
         
       .row(titulo="Adecuación y construcción").justify-content-center
         .col-2
           figure
             img(src='@/assets/curso/temas/tema4/3.svg', alt='')
         .col-10
-          p Forman parte de este grupo los elementos necesarios para adelantar las labores de construcción y/o adecuación de infraestructura productiva entre los cuales se encuentran cemento, ladrillo, arena, madera, guadua y tejas de zinc entre otros productos. 
+          p Forman parte de este grupo los elementos necesarios para adelantar las labores de construcción y/o adecuación de infraestructura productiva,  entre los cuales se encuentran cemento, ladrillo, arena, madera, guadua y tejas de zinc, entre otros productos. 
       .row(titulo="Aseo y desinfección").justify-content-center
         .col-2
           figure
@@ -49,12 +49,12 @@
         .col-10
           p Son todos los insumos que se tengan en la unidad productiva para el sostenimiento de las praderas o pasturas naturales que sirven como fuente primaria de alimento para las especies pecuarias. Dentro de estos insumos es posible encontrar acondicionadores de suelo, fertilizantes, herbicidas y demás productos empleados para este propósito. 
         
-      .row(titulo="Alimentación").justify-content-center
+      .row(titulo="Manejo de plagas").justify-content-center
         .col-2
           figure
             img(src='@/assets/curso/temas/tema4/7.svg', alt='')
         .col-10
-          p En muchas de las actividades pecuarias es común la presencia de plagas (especialmente roedores e insectos) los cuales además de deteriorar la calidad de los elementos almacenados en la unidad productiva, son vectores con la capacidad de transmitir diferentes enfermedades. En vista de lo anterior, el control de plagas es una de las actividades clave para mantener los principios de bioseguridad. Dentro de los insumos que se encuentran al interior de la unidad productiva para el manejo de plagas están los insecticidas, repelentes, cebos tóxicos y raticidas entre otros.       
+          p En muchas de las actividades pecuarias es común la presencia de plagas (especialmente roedores e insectos) los cuales además de deteriorar la calidad de los elementos almacenados en la unidad productiva, son vectores con la capacidad de transmitir diferentes enfermedades. En vista de lo anterior, el control de plagas es una de las actividades clave para mantener los principios de bioseguridad. Dentro de los insumos que se encuentran al interior de la unidad productiva para el manejo de plagas están los insecticidas, repelentes, cebos tóxicos y raticidas, entre otros.       
 
     p(data-aos="fade-left").mb-5 El manejo y utilización de estos insumos debe ser supervisado siempre, por lo que es necesario establecer protocolos para realizar estas labores e, igualmente, dejar trazabilidad cada vez que se haga uso de ellos. Por otro lado, es importante almacenar estos elementos de forma adecuada, debidamente rotulados y en las condiciones establecidas por el fabricante en la etiqueta y en la ficha técnica. La bodega donde se almacenen estos elementos debe estar bajo llave, debidamente ventilada y construida con materiales que faciliten su aseo y desinfección y además aseguren la estabilidad de los ingredientes activos.
 
@@ -201,7 +201,7 @@
         h4.text-center Control de cambios
         p.text-center Se registran todos los ajustes que han sufrido el protocolo y los procedimientos. Se deja trazabilidad de estos cambios. 
 
-    p(data-aos="fade-left").mb-5 Es posible incluir anexos a los protocolos de limpieza los cuales permitirán al lector obtener información detallada sobre los implementos a emplear, los artículos e insumos. Algunos ejemplos de anexos son las fichas técnicas de los productos de limpieza, el manual de uso de los equipos de protección personal o los manuales de operación de cualquier otro equipo empleado en alguno de los procesos y procedimientos.
+    p(data-aos="fade-left").mb-5 Es posible incluir anexos a los protocolos de limpieza, los cuales permitirán al lector obtener información detallada sobre los implementos a emplear, los artículos e insumos. Algunos ejemplos de anexos son las fichas técnicas de los productos de limpieza, el manual de uso de los equipos de protección personal o los manuales de operación de cualquier otro equipo empleado en alguno de los procesos y procedimientos.
 
 </template>
 

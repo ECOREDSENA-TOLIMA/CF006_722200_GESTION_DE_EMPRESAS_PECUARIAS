@@ -14,7 +14,7 @@
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema5/1.svg', alt='Texto que describa la imagen')
           .col-8
-            p(data-aos="fade-left") Los animales están expuestos a múltiples riesgos en especial por la acción de agentes contaminantes como hongos, virus y bacterias los cuales pueden llegar a afectar seriamente la productividad, por lo que es absolutamente necesario implementar protocolos de aseo y desinfección para reducir estas amenazas. Para el desarrollo de los procesos de sanitización, limpieza y desinfección de las instalaciones pecuarias se requiere de equipos, utensilios y herramientas las cuales además de facilitar el trabajo aumentan la eficiencia de las actividades.
+            p(data-aos="fade-left") Los animales están expuestos a múltiples riesgos, en especial por la acción de agentes contaminantes como hongos, virus y bacterias, los cuales pueden llegar a afectar seriamente la productividad, por lo que es absolutamente necesario implementar protocolos de aseo y desinfección para reducir estas amenazas. Para el desarrollo de los procesos de sanitización, limpieza y desinfección de las instalaciones pecuarias se requiere de equipos, utensilios y herramientas, las cuales además de facilitar el trabajo, aumentan la eficiencia de las actividades.
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido
@@ -86,7 +86,7 @@
         p Para restregar las superficies contaminadas con diversos tipos de sustancias. 
 
     .tarjeta.p-3(style="border-radius: 0; background-color:#FFFAD0")
-      p Por el lado de la desinfección que es tan importante en los procesos de cuidado pecuario es necesario tener los siguientes elementos de apoyo a la hora de aplicar algunos de los químicos desinfectantes, se debe tener cuidado con su control y manipulación por parte de los humanos y animales:
+      p Por el lado de la desinfección que es tan importante en los procesos de cuidado pecuario, es necesario tener los siguientes elementos de apoyo a la hora de aplicar algunos de los químicos desinfectantes, se debe tener cuidado con su control y manipulación por parte de los humanos y animales:
 
     PasosA.color-acento-contenido.mb-5(tipo="n")
       .row

@@ -14,7 +14,7 @@
             figure(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema6/1.svg', alt='Texto que describa la imagen')
           .col-8
-            p(data-aos="fade-left") La base fundamental de los protocolos de bioseguridad es la correcta higiene de las instalaciones, del personal, de los equipos, utensilios y herramientas con que se cuenta al interior de la unidad productiva, pues en condiciones de poca higiene y suciedad es más probable que proliferen organismos patógenos que pueden afectar la salud de los animales. En los procesos de higienización que se deben dar al interior de la unidad productiva intervienen una serie de elementos los cuales se presentan a continuación.
+            p(data-aos="fade-left") La base fundamental de los protocolos de bioseguridad es la correcta higiene de las instalaciones, del personal, de los equipos, utensilios y herramientas con que se cuenta al interior de la unidad productiva, pues en condiciones de poca higiene y suciedad es más probable que proliferen organismos patógenos que pueden afectar la salud de los animales. En los procesos de higienización que se deben dar al interior de la unidad productiva intervienen una serie de elementos, los cuales se presentan a continuación.
 
     
 
@@ -65,7 +65,7 @@
                 td(rowspan=3)  Álcalis
                 td 3a
                 td Hidróxido de sodio (soda cáustica).
-                td Pellets
+                td #[em Pellets]
               tr
                 td(rowspan=2)  3b
                 td Carbonato de sodio Na2CO3.
@@ -125,7 +125,7 @@
             .col-md-11.mb-4.mb-md-0
               p Son compuestos altamente eficaces frente a distintas clases de microorganismos, por lo que son muy utilizados en concentraciones del 1 al 2 %. Son químicamente estables en presencia de materia orgánica y ligeramente corrosivos para los metales.
           
-        p(data-aos="fade-left").mb-5 Es importante recordar que la utilización de estos elementos requiere de la utilización de equipos de protección personal por lo que es importante consultar las fichas técnicas de seguridad. Otros productos empleados en labores de limpieza y desinfección en unidades pecuarias son la cal (carbonato de calcio CaCO3) y los productos a base de amonio cuaternario.
+        p(data-aos="fade-left").mb-5 Es importante recordar que la utilización de estos elementos requiere de la utilización de equipos de protección personal, por lo que es importante consultar las fichas técnicas de seguridad. Otros productos empleados en labores de limpieza y desinfección en unidades pecuarias son la cal (carbonato de calcio CaCO3) y los productos a base de amonio cuaternario.
 
         .tarjeta--container.row.mb-5
           .col-md.tarjeta(style="background-color: #DBF9BD").p-5
@@ -188,8 +188,8 @@
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Concentraciones 
 
-    p(data-aos="fade-left") En lo relacionado con las concentraciones de estos elementos desinfectantes vale la pena mencionar que estas se dan de acuerdo con el uso que se le vaya a dar y el tipo de explotación. En explotaciones avícolas, por ejemplo, este tipo de elementos se utilizan a menudo para la desinfección de galpones, previamente al ingreso de los animales.
-    p(data-aos="fade-left").mb-5 De acuerdo con el Instituto Colombiano Agropecuario, en su Resolución 30292 de 2017 en la cual se establecen medidas sanitarias para el control y erradicación de la enfermedad de Newcastle las concentraciones de algunos productos para la desinfección son las siguientes:
+    p(data-aos="fade-left") En lo relacionado con las concentraciones de estos elementos desinfectantes, vale la pena mencionar que estas se dan de acuerdo con el uso que se le vaya a dar y el tipo de explotación. En explotaciones avícolas, por ejemplo, este tipo de elementos se utilizan a menudo para la desinfección de galpones, previamente al ingreso de los animales.
+    p(data-aos="fade-left").mb-5 De acuerdo con el Instituto Colombiano Agropecuario, en su Resolución 30292 de 2017 en la cual se establecen medidas sanitarias para el control y erradicación de la enfermedad de #[em Newcastle], las concentraciones de algunos productos para la desinfección son las siguientes:
 
     .row.justify-content-center
       .col-10
@@ -408,7 +408,7 @@
         figure
           img(src='@/assets/curso/temas/tema6/16.svg', alt='Figura 12 Ejemplo de cronograma de actividades de higienización En la figura se observa las actividades contra los meses del 1 al 6.')
 
-    p(data-aos="fade-left") El cronograma de actividades es una herramienta fundamental de planeación que permite al equipo de trabajo llevar un control muy preciso de las labores por realizar en la unidad productiva, al tiempo que facilita el proceso de seguimiento en campo. Es recomendable mantener el cronograma en un lugar visible de manera que todo el personal esté familiarizado con las labores pendientes y con las responsabilidades asignadas para el cumplimiento de las metas de la organización. 
+    p(data-aos="fade-left") El cronograma de actividades es una herramienta fundamental de planeación que permite al equipo de trabajo llevar un control muy preciso de las labores por realizar en la unidad productiva, al tiempo que facilita el proceso de seguimiento en campo. Es recomendable mantener el cronograma en un lugar visible, de manera que todo el personal esté familiarizado con las labores pendientes y con las responsabilidades asignadas para el cumplimiento de las metas de la organización. 
 </template>
 
 <script>

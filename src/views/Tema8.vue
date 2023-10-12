@@ -26,7 +26,7 @@
                   | Estar construido con materiales que faciliten su aseo y desinfección.
                 li 
                   i.lista-ul__vineta
-                  | Contar con vestier, sanitario y lavamanos con capacidad para el número trabajadores.
+                  | Contar con #[em vestier], sanitario y lavamanos con capacidad para el número trabajadores.
                 li 
                   i.lista-ul__vineta
                   | Tener, en lo posible, un área de ingreso (área sucia), un área intermedia (ducha) y un área limpia donde se encuentre la dotación usará el operario dentro de la explotación productiva.
@@ -48,7 +48,7 @@
     #t_8_2.titulo-segundo.color-acento-contenido
       h2 8.2  Equipos
 
-    p(data-aos="fade-left").mb-5 Para la construcción de los filtros sanitarios se pueden emplear desde equipos muy sencillos con un nivel muy bajo de tecnificación hasta sistemas complejos que emplean de forma simultánea dos o más mecanismos de limpieza y desinfección. En el caso de las explotaciones porcícolas, por ejemplo, la normatividad recomienda emplear duchas, lavamanos, vestier, elementos para secar las manos y sanitario. Sin embargo, algunos sistemas más sencillos solo emplean pediluvios, lavamanos o puntos de sanitización de manos. Entre los equipos que a menudo se utilizan en los filtros sanitarios están los siguientes:
+    p(data-aos="fade-left").mb-5 Para la construcción de los filtros sanitarios se pueden emplear desde equipos muy sencillos con un nivel muy bajo de tecnificación hasta sistemas complejos que emplean de forma simultánea dos o más mecanismos de limpieza y desinfección. En el caso de las explotaciones porcícolas, por ejemplo, la normatividad recomienda emplear duchas, lavamanos, #[em vestier], elementos para secar las manos y sanitario. Sin embargo, algunos sistemas más sencillos solo emplean pediluvios, lavamanos o puntos de sanitización de manos. Entre los equipos que a menudo se utilizan en los filtros sanitarios están los siguientes:
 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
       .tarjeta(style="background-color:#DBF9BD").p-4
