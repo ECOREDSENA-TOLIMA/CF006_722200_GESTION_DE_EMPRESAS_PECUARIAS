@@ -65,33 +65,33 @@
       .col-md-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema10/2.svg' alt='')  
 
-    .row.justify-content-center.mb-5
-      .col-10
-        .titulo-sexto.color-acento-contenido
-          h5 Tabla 13
-          span #[em Características del agua para consumo humano]
-        .tabla-b.mb-5 
-          table
-            caption Nota. Tomada del Ministerio de la Protección Social (2007).
-            thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
-              tr.text-center
-                th Características físicas
-                th Valor máximo aceptable
-            tbody.text-center
-              tr
-                td Color aparente
-                td 15
-              tr
-                td Olor y sabor
-                td Aceptable
-              tr
-                td Turbiedad 
-                td 2
+    //- .row.justify-content-center.mb-5
+    //-   .col-10
+    //-     .titulo-sexto.color-acento-contenido
+    //-       h5 Tabla 13
+    //-       span #[em Características del agua para consumo humano]
+    //-     .tabla-b.mb-5 
+    //-       table
+    //-         caption Nota. Tomada del Ministerio de la Protección Social (2007).
+    //-         thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
+    //-           tr.text-center
+    //-             th Características físicas
+    //-             th Valor máximo aceptable
+    //-         tbody.text-center
+    //-           tr
+    //-             td Color aparente
+    //-             td 15
+    //-           tr
+    //-             td Olor y sabor
+    //-             td Aceptable
+    //-           tr
+    //-             td Turbiedad 
+    //-             td 2
 
     .row.justify-content-center.mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 14
+          h5 Tabla 13
           span #[em Clasificación de los riesgos laborales de acuerdo con las aseguradoras de riesgos laborales]
         .tabla-b.mb-5 
           table
@@ -122,7 +122,7 @@
                 td 6,960 %
                 td Areneras, manejo de asbesto, bomberos, manejo de explosivos, construcción y explotación petrolera. 
 
-        p(data-aos="fade-left") En relación con la clasificación de los riesgos, de acuerdo con la normatividad vigente se tiene que existen cinco (5) clases de riesgo, dependiendo de aspectos como las materias primas con las que se trabaja, los materiales, insumos que sean utilizados, medios de producción, procesos, almacenamiento y transporte. Este aspecto es importante pues la definición de la clase de riesgo indica la tarifa sobre la cual se hará la cotización a la Aseguradora de Riesgos Laborales (ARL). 
+        p(data-aos="fade-left") En relación con la clasificación de los riesgos, de acuerdo con la normatividad vigente se tiene que existen cinco (5) clases de riesgo, dependiendo de aspectos como las materias primas con las que se trabaja, los materiales, insumos que sean utilizados, medios de producción, procesos, almacenamiento y transporte. Este aspecto es importante, pues la definición de la clase de riesgo indica la tarifa sobre la cual se hará la cotización a la Aseguradora de Riesgos Laborales (ARL). 
 
 
     separador
@@ -136,8 +136,8 @@
         figure
           img(src="@/assets/curso/temas/tema10/3.svg")
 
-        .titulo-sexto.color-acento-contenido
-          h5 Tabla 15
+        .titulo-sexto.color-acento-contenido.mt-5
+          h5 Tabla 14
           span #[em Ejemplos de peligros que pueden enfrentar los trabajadores]
         .tabla-b.mb-5 
           table
@@ -168,7 +168,7 @@
                 td Fenómenos naturales
                 td Terremoto, vendaval, inundación, derrumbe, sismo. 
 
-        p(data-aos="fade-left").mb-5 En los entornos rurales, los trabajadores agropecuarios se enfrentan a múltiples peligros por lo que es sumamente importante identificarlos y contrastarlos en una matriz de riesgos. De esta forma, se sentarán las bases para realizar una buena gestión de estas situaciones y construir soluciones que permitan desarrollar las actividades con total seguridad. 
+        p(data-aos="fade-left").mb-5 En los entornos rurales, los trabajadores agropecuarios se enfrentan a múltiples peligros, por lo que es sumamente importante identificarlos y contrastarlos en una matriz de riesgos. De esta forma, se sentarán las bases para realizar una buena gestión de estas situaciones y construir soluciones que permitan desarrollar las actividades con total seguridad. 
 
     separador
     #t_10_3.titulo-segundo.color-acento-contenido
@@ -241,7 +241,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Se denomina así a cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin. Los EPP no evitan el accidente o el contacto con elementos agresivos, pero ayudan a que la lesión sea menos grave. 
 
-        p(data-aos="fade-left").mb-5 En las labores cotidianas al interior de las unidades productivas agropecuarias, el personal está expuesto a múltiples riesgos los cuales pueden ser mitigados con el uso apropiado de los equipos de protección personal. 
+        p.mt-5(data-aos="fade-left").mb-5 En las labores cotidianas al interior de las unidades productivas agropecuarias, el personal está expuesto a múltiples riesgos los cuales pueden ser mitigados con el uso apropiado de los equipos de protección personal. 
 
 </template>
 

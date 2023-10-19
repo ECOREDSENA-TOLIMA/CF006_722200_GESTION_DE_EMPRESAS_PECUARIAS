@@ -21,7 +21,7 @@
           figure
             img(src='@/assets/curso/temas/tema4/2.svg', alt='')
         .col-10
-          p Hace referencia a los medicamentos veterinarios, los cuales son sustancias que pueden ser aplicadas o administradas a los animales, con fines terapéuticos, profilácticos, inmunológicos, de diagnóstico o para modificar las funciones fisiológicas y de comportamiento (Oirsa, 2013). Hacen parte de este grupo los antiparasitarios, antibióticos, relajantes musculares, anestésicos y vacunas entre otros.
+          p Hace referencia a los medicamentos veterinarios, los cuales son sustancias que pueden ser aplicadas o administradas a los animales, con fines terapéuticos, profilácticos, inmunológicos, de diagnóstico o para modificar las funciones fisiológicas y de comportamiento (Oirsa, 2013). Hacen parte de este grupo los antiparasitarios, antibióticos, relajantes musculares, anestésicos y vacunas, entre otros.
         
       .row(titulo="Adecuación y construcción").justify-content-center
         .col-2
@@ -151,21 +151,21 @@
     p(data-aos="fade-left").mb-5 Para la construcción de un protocolo, sin importar su área de acción, se deben tener en cuenta los siguientes elementos:
 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
-      .tarjeta.p-4(style="background-color:#DBF9BD")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/10.svg' alt='AvatarTop')
         h4.text-center Encabezado
         p.text-center Se define nombre del protocolo, fecha de elaboración y responsables de elaboración, revisión y aprobación.  
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/11.svg' alt='AvatarTop')
         h4.text-center Objeto
         p.text-center Se expresa cuál es el fin del protocolo, es decir, qué se pretende con su implementación. 
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/12.svg' alt='AvatarTop')
@@ -173,28 +173,28 @@
         p.text-center Se delimita la escala de aplicación del protocolo: si aplica en un área de la empresa, en toda la empresa o un área geográfica definida.
 
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/13.svg' alt='AvatarTop')
         h4.text-center Definiciones
         p.text-center Se incluye un glosario de términos para centrar al lector sobre el contenido del protocolo. 
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/14.svg' alt='AvatarTop')
         h4.text-center Condiciones generales
         p.text-center Se expresan las disposiciones que se deben seguir para garantizar el cumplimiento del objeto del protocolo como lavado de manos, desinfección de superficies, uso de equipos de protección personal, entre otras. 
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/15.svg' alt='AvatarTop')
         h4.text-center Contenido
         p.text-center Se definen uno a uno los procedimientos que se deben realizar para el cumplimiento de los objetivos del protocolo, expresando las actividades de manera secuencial y clara.
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/16.svg' alt='AvatarTop')

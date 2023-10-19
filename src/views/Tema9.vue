@@ -99,7 +99,7 @@
                 td 0,05
             thead.text-white(style="background-color:#3B5620")(data-aos="flip-up") 
               tr.text-center
-                th Características químicas
+                th Características microbiológicas
                 th Valor máximo aceptable
             tbody.text-center
               tr

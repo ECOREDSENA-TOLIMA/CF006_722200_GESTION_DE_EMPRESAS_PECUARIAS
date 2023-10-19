@@ -51,53 +51,53 @@
     p(data-aos="fade-left").mb-5 Para la construcción de los filtros sanitarios se pueden emplear desde equipos muy sencillos con un nivel muy bajo de tecnificación hasta sistemas complejos que emplean de forma simultánea dos o más mecanismos de limpieza y desinfección. En el caso de las explotaciones porcícolas, por ejemplo, la normatividad recomienda emplear duchas, lavamanos, #[em vestier], elementos para secar las manos y sanitario. Sin embargo, algunos sistemas más sencillos solo emplean pediluvios, lavamanos o puntos de sanitización de manos. Entre los equipos que a menudo se utilizan en los filtros sanitarios están los siguientes:
 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/3.svg' alt='AvatarTop')
         h4.text-center Lavabotas
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/4.svg' alt='AvatarTop')
         h4.text-center Pediluvios
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/5.svg' alt='AvatarTop')
         h4.text-center Lavamanos automático
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/6.svg' alt='AvatarTop')
         h4.text-center Dispensador de toallas
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/7.svg' alt='AvatarTop')
         h4.text-center Secador de manos automático
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/8.svg' alt='AvatarTop')
         h4.text-center Arco sanitario
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/9.svg' alt='AvatarTop')
         h4.text-center Rodiluvio
 
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/10.svg' alt='AvatarTop')
         h4.text-center Filtros sanitarios integrados
-      .tarjeta(style="background-color:#DBF9BD").p-4
+      .tarjeta.col-ipad(style="background-color:#DBF9BD").p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/11.svg' alt='AvatarTop')

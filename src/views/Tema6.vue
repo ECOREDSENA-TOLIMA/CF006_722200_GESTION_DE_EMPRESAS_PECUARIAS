@@ -204,7 +204,7 @@
                 th(colspan=2) Concentración recomendada
                 th(rowspan=2) Tiempo de contacto en minutos
               tr.text-center 
-                th Concentración inicial
+                th Dilución inicial
                 th Concentración final
               
             tbody.text-center
@@ -242,7 +242,7 @@
                 td Carbonato de sodio decahidratado Na2CO3.10H2O
                 td 100 g/ litro
                 td 10 % peso/volumen
-                td 30
+                td 30'
               tr
                 td Ácido clorhídrico
                 td 1:50

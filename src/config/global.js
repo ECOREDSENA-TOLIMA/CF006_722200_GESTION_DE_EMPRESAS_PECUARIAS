@@ -286,7 +286,7 @@ export default {
     {
       termino: 'Biocontrolador',
       significado:
-        'Insecto que se alimenta de otros insectos usualmente empleado para ejercer control de poblaciones de plagas en cultivos y unidades pecuarias.',
+        'Insecto que se alimenta de otros insectos. Usualmente empleado para ejercer control de poblaciones de plagas en cultivos y unidades pecuarias.',
     },
     {
       termino: 'Desasosiego',
@@ -328,7 +328,7 @@ export default {
     {
       referencia: 'Ideam. (2010). Estimación de la demanda de agua. Ideam. ',
       link:
-        'http://documentacion.ideam.gov.co/openbiblio/bvirtual/021888/CAP5.pdf',
+        'http://www.ideam.gov.co/web/agua/estudio-nacional-del-agua/-/document_library_display/hWSQik0LFPrw/view/125687810',
     },
     {
       referencia:
@@ -357,12 +357,6 @@ export default {
     {
       referencia:
         'Ministerio de Agricultura y Desarrollo Rural. (2020). Resolución número 253 de 2020. “Por la cual se adopta el Manual de Condiciones de Bienestar Animal propias de cada una de las especies de producción en el sector agropecuario; bovina, bufalina, aves de corral y animales acuáticos”. Ministerio de Agricultura y Desarrollo Rural. ',
-      link:
-        'https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf',
-    },
-    {
-      referencia:
-        'Ministerio de Agricultura y Desarrollo Rural. (2020). Resolución número 0253. ',
       link:
         'https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf',
     },

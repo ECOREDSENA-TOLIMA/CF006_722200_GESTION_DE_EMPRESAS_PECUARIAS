@@ -10,12 +10,12 @@
             img(src="@/assets/template/opcion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Cuestionario medidas de bioseguridad
+          h2 Selección múltiple única respuesta medidas de bioseguridad
         p.mb-4 #[b Objetivo] Identificar conceptos básicos sobre las medidas de bioseguridad en la producción pecuaria
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Cuestionario
+              p.fw-bold.mb-0 Selección múltiple única respuesta
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar

@@ -91,7 +91,7 @@
             tbody.text-center
               tr
                 td #[b Control biológico]
-                td Realizar las adecuaciones correspondientes para evitar el drenaje de aguas residuales a libre exposición.
+                td Se utilizan enemigos naturales de las plagas para reducir los niveles de Infestación.
                 td Protección del entorno y la biodiversidad. <br> Alta sostenibilidad.
                 td Alto costo de inversión inicial.
               tr
