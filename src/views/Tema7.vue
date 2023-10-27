@@ -91,7 +91,7 @@
             tbody.text-center
               tr
                 td #[b Control biológico]
-                td Se utilizan enemigos naturales de las plagas para reducir los niveles de Infestación.
+                td Se utilizan enemigos naturales de las plagas para reducir los niveles de infestación.
                 td Protección del entorno y la biodiversidad. <br> Alta sostenibilidad.
                 td Alto costo de inversión inicial.
               tr
