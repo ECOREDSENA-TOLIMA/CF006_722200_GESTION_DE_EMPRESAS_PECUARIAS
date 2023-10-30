@@ -242,7 +242,7 @@
                 td Carbonato de sodio decahidratado Na2CO3.10H2O
                 td 100 g/ litro
                 td 10 % peso/volumen
-                td 30'
+                td 30&sup1;
               tr
                 td Ácido clorhídrico
                 td 1:50
@@ -272,6 +272,11 @@
     p(data-aos="fade-left") Además de los anteriores, existen algunos otros ejemplos de agentes desinfectantes, con nombre comercial, los cuales se recomiendan para procesos de desinfección en todo tipo de predios.
 
     p(data-aos="fade-left").mb-5 La efectividad de los agentes desinfectantes depende en gran medida de una correcta preparación, pues es necesario conocer las recomendaciones del fabricante en lo relacionado con las diluciones, tipos de mezclas y calidad del agua empleada. Generalmente, este tipo de sustancias son solubles en agua, lo cual facilita su empleo en cualquier unidad productiva. En términos generales, las recomendaciones que se deben tener en cuenta para realizar una buena preparación son las siguientes:
+
+    .col-4
+      <hr style="border:15px;"> 
+
+    p(data-aos="fade-left").mb-5 A excepción del gas formaldehído, cuya duración se expresa en horas.
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 10
