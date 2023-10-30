@@ -276,7 +276,7 @@
     .col-4
       <hr style="border:15px;"> 
 
-    p(data-aos="fade-left").mb-5 A excepción del gas formaldehído, cuya duración se expresa en horas.
+    p(data-aos="fade-left").mb-5 &sup1;A excepción del gas formaldehído, cuya duración se expresa en horas.
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 10
